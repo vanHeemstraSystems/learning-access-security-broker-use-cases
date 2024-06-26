@@ -1,5 +1,0 @@
----
-title: "Cloud Access Security Broker"
----
-
-About this site
